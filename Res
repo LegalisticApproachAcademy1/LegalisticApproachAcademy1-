@@ -1,0 +1,4 @@
+cd legalistic-journal-website
+git add .
+git commit -m "Initial commit with website files"
+git push origin main
